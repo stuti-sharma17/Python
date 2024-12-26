@@ -12,4 +12,3 @@ if __name__ == '__main__':
         engine = pyttsx3.init()
         engine.say(x)
         engine.runAndWait()
-
